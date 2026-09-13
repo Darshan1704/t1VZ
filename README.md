@@ -174,3 +174,4 @@
 # 2026-09-12T11:45:36 - Add logging support
 # 2026-09-12T19:57:49 - Update configuration
 # 2026-09-13T16:52:41 - Add comments to main module
+# 2026-09-13T11:08:51 - Improve documentation
