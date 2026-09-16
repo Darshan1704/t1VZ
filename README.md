@@ -187,3 +187,4 @@
 # 2026-09-16T09:23:20 - Add logging support
 # 2026-09-16T10:11:52 - Enhance UI layout
 # 2026-09-16T10:26:22 - Update dependencies
+# 2026-09-16T15:57:57 - Add comments to main module
