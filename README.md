@@ -308,3 +308,4 @@
 # 2026-10-27T11:47:19 - Add data processing logic
 # 2026-10-27T11:07:40 - Add initial project structure
 # 2026-10-28T09:18:01 - Minor style fixes
+# 2026-10-28T10:08:09 - Update README with project details
